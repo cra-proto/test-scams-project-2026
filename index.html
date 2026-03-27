@@ -53,7 +53,7 @@ noFooterMain: true
                         {% endif %}
                     {% endfor %}
                 {% endif %}
-                {% unless foundFrench %}<i class="fa fa-minus></i>{% endunless %}
+                {% unless foundFrench %}<i class="fa fa-minus"></i>{% endunless %}
                 </td>
             </tr>
         {% endfor %}
@@ -62,7 +62,7 @@ noFooterMain: true
         {% for frPage in frenchPages %}
             {% unless pairedFrenchUrls contains frPage.url %}
                 <tr>
-                    <td><i class="fa fa-minus></i></td>
+                    <td><i class="fa fa-minus"></i></td>
                     <td><a href="{{ site.baseurl }}{{ frPage.url }}">{{ frPage.title | default: frPage.url }}</a></td>
                 </tr>
             {% endunless %}

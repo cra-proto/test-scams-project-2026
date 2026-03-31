@@ -60,62 +60,6 @@
     "destination": "/test-scams-project-2026/en/revenue-agency/services/charities-giving/giving-charity-information-donors/report-suspected-donation-scams-non-compliance.html"
   },
   {
-    "origin": "https://www.canada.ca/fr/agence-revenu/campagnes/trousse-information-arnaques-fraudes-fiscales.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/campagnes/trousse-information-arnaques-fraudes-fiscales.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/organisation/arnaques-fraudes.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes/reconnaitre-arnaque.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/organisation/arnaques-fraudes/reconnaitre-arnaque.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes/signaler-arnaque.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/organisation/arnaques-fraudes/signaler-arnaque.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/campagnes/fraude-arnaques.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/campagnes/fraude-arnaques.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/2017/06/le_gouvernement_ducanadaluttecontrelafraudefiscaledanslestransac.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/nouvelles/2017/06/le_gouvernement_ducanadaluttecontrelafraudefiscaledanslestransac.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/2025/08/la-periode-des-impots-est-terminee-mais-proteger-les-renseignements-personnels-demeure-une-priorite-toute-lannee.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/nouvelles/2025/08/la-periode-des-impots-est-terminee-mais-proteger-les-renseignements-personnels-demeure-une-priorite-toute-lannee.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-particuliers/webinaire-evitez-arnaques.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/galerie-videos-particuliers/webinaire-evitez-arnaques.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/videos-sujet-economie-clandestine/transcription-lorsque-personne-ne-fraude-tout-monde-gagne.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/videos-sujet-economie-clandestine/transcription-lorsque-personne-ne-fraude-tout-monde-gagne.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/aide-services-ouverture-session-arc/proteger-services-ouverture-session.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/aide-services-ouverture-session-arc/proteger-services-ouverture-session.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/renseignements-importants-securite.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/renseignements-importants-securite.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/rc213.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/services/formulaires-publications/formulaires/rc213.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/comment-puis-faire-facon-judicieuse-tout-evitant-fraude.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/comment-puis-faire-facon-judicieuse-tout-evitant-fraude.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/signaler-fraudes-dons-presumees-inobservation.html",
-    "destination": "/test-scams-project-2026/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/signaler-fraudes-dons-presumees-inobservation.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/news/newsroom.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/news/newsroom.html"
   },
@@ -140,7 +84,55 @@
     "destination": "/test-scams-project-2026/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2022/not-sure-cra-calling-here-how-to-find-out.html"
   },
   {
+    "origin": "https://www.canada.ca/fr/agence-revenu/campagnes/fraude-arnaques.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/campagnes/fraude-arnaques.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/campagnes/trousse-information-arnaques-fraudes-fiscales.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/campagnes/trousse-information-arnaques-fraudes-fiscales.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/2017/06/le_gouvernement_ducanadaluttecontrelafraudefiscaledanslestransac.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/nouvelles/2017/06/le_gouvernement_ducanadaluttecontrelafraudefiscaledanslestransac.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/2025/08/la-periode-des-impots-est-terminee-mais-proteger-les-renseignements-personnels-demeure-une-priorite-toute-lannee.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/nouvelles/2025/08/la-periode-des-impots-est-terminee-mais-proteger-les-renseignements-personnels-demeure-une-priorite-toute-lannee.html"
+  },
+  {
     "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse.html",
     "destination": "/test-scams-project-2026/fr/agence-revenu/nouvelles/salle-presse.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/organisation/arnaques-fraudes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes/reconnaitre-arnaque.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/organisation/arnaques-fraudes/reconnaitre-arnaque.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes/signaler-arnaque.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/organisation/arnaques-fraudes/signaler-arnaque.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/rc213.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/formulaires-publications/formulaires/rc213.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/comment-puis-faire-facon-judicieuse-tout-evitant-fraude.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/comment-puis-faire-facon-judicieuse-tout-evitant-fraude.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/signaler-fraudes-dons-presumees-inobservation.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs/signaler-fraudes-dons-presumees-inobservation.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/aide-services-ouverture-session-arc/proteger-services-ouverture-session.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/aide-services-ouverture-session-arc/proteger-services-ouverture-session.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/renseignements-importants-securite.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/services-electroniques/services-ouverture-session-arc/renseignements-importants-securite.html"
   }
 ]

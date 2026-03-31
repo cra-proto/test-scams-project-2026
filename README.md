@@ -2,7 +2,7 @@
 
 *description of the project*
 
-**Timeframe** 2026-03-12 - 2026-06-18
+**Timeframe** 2026-03-17 - 2026-06-23
 
 ## Overview
 
@@ -26,7 +26,7 @@ Add information on how to manage your repo here.
 - [ ] Refine prototype (if required)
 - [ ] Spot check usability (if required)
 
-**Updated:**  2026-03-26
+**Updated:**  2026-03-31
 
 ## Information Architecture
 ```mermaid
@@ -45,24 +45,19 @@ flowchart TD;
     node12(Webinar – Be scam smart)
     node13(Videos about the underground economy)
     node14(When nobody cheats, everybody wins)
-    node15(CRA Newsroom)
-    node16(The Canada Revenue Agency is resuming additional activities: know when we’re contacting you and how to avoid scams)
-    node17(Don't get scammed!)
-    node18(How to verify the CRA has contacted you)
-    node19(How to verify the CRA has contacted you)
-    node20(Not sure if it's the CRA calling? Here's how to find out!)
-    node21(Sign in to your CRA account)
-    node22(Help with using your CRA account)
-    node23(CRA account help - Keep your CRA account secure)
-    node24(Important Security Information)
-    node25(Forms and publications - CRA)
-    node26(Canada Revenue Agency forms listed by number)
-    node27(RC213 Identity theft and suspicious activity declaration form for individual, business and trust)
-    node28(Taxes)
-    node29(Charities and giving)
-    node30(Give to a registered charity or another type of qualified donee)
-    node31(Avoid donation-related scams)
-    node32(Report suspected donation-related scams or other non-compliance)
+    node15(Sign in to your CRA account)
+    node16(Help with using your CRA account)
+    node17(CRA account help - Keep your CRA account secure)
+    node18(Important Security Information)
+    node19(Forms and publications - CRA)
+    node20(Canada Revenue Agency forms listed by number)
+    node21(RC213 Identity theft and suspicious activity declaration form for individual, business and trust)
+    node22(Best page ever)
+    node23(Taxes)
+    node24(Charities and giving)
+    node25(Give to a registered charity or another type of qualified donee)
+    node26(Avoid donation-related scams)
+    node27(Report suspected donation-related scams or other non-compliance)
     node1 --x node2
     node2 --x node3
     node2 --> node4
@@ -77,23 +72,18 @@ flowchart TD;
     node10 --x node13
     node13 --> node14
     node2 --> node15
-    node15 --x node16
-    node15 --x node17
+    node15 --> node16
+    node16 --> node17
     node15 --x node18
-    node15 --x node19
-    node15 --x node20
-    node2 --> node21
-    node21 --> node22
-    node22 --> node23
-    node21 --x node24
-    node2 --> node25
+    node2 --> node19
+    node19 --> node20
+    node20 --> node21
+    node21 --x node22
+    node1 --> node23
+    node23 --> node24
+    node24 --> node25
     node25 --> node26
-    node26 --> node27
-    node1 --> node28
-    node28 --> node29
-    node29 --> node30
-    node30 --> node31
-    node30 --> node32
+    node25 --> node27
     click node1 "https://www.canada.ca/en.html" _blank
     click node2 "https://www.canada.ca/en/revenue-agency.html" _blank
     click node3 "https://www.canada.ca/en/revenue-agency/campaigns/information-kit-tax-related-scams-fraud.html" _blank
@@ -108,26 +98,23 @@ flowchart TD;
     click node12 "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/individuals-video-gallery/webinar-be-scam-smart.html" _blank
     click node13 "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/videos-about-underground-economy.html" _blank
     click node14 "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/videos-about-underground-economy/transcript-when-nobody-cheats-everybody-wins.html" _blank
-    click node15 "https://www.canada.ca/en/revenue-agency/news/newsroom.html" _blank
-    click node16 "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2020/canada-revenue-agency-resuming-additional-activities-know-were-contacting-how-avoid-scams.html" _blank
-    click node17 "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2020/dont-get-scammed.html" _blank
-    click node18 "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2021/how-to-verify-the-cra-has-contacted-you.html" _blank
-    click node19 "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2022/how-to-verify-the-cra-has-contacted-you.html" _blank
-    click node20 "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2022/not-sure-cra-calling-here-how-to-find-out.html" _blank
-    click node21 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html" _blank
-    click node22 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services.html" _blank
-    click node23 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/keep-sign-in-services-secure.html" _blank
-    click node24 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/important-security-information.html" _blank
-    click node25 "https://www.canada.ca/en/revenue-agency/services/forms-publications.html" _blank
-    click node26 "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms.html" _blank
-    click node27 "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc213.html" _blank
-    click node28 "https://www.canada.ca/en/services/taxes.html" _blank
-    click node29 "https://www.canada.ca/en/services/taxes/charities.html" _blank
-    click node30 "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors.html" _blank
-    click node31 "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/donate-wisely-avoid-fraud.html" _blank
-    click node32 "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/report-suspected-donation-scams-non-compliance.html" _blank
+    click node15 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html" _blank
+    click node16 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services.html" _blank
+    click node17 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/keep-sign-in-services-secure.html" _blank
+    click node18 "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/important-security-information.html" _blank
+    click node19 "https://www.canada.ca/en/revenue-agency/services/forms-publications.html" _blank
+    click node20 "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms.html" _blank
+    click node21 "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc213.html" _blank
+    click node22 "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc213/best-page-ever.html" _blank
+    click node23 "https://www.canada.ca/en/services/taxes.html" _blank
+    click node24 "https://www.canada.ca/en/services/taxes/charities.html" _blank
+    click node25 "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors.html" _blank
+    click node26 "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/donate-wisely-avoid-fraud.html" _blank
+    click node27 "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors/report-suspected-donation-scams-non-compliance.html" _blank
     classDef inscope stroke:#7636ab,stroke-width:3px
-    class node3,node4,node5,node6,node7,node8,node9,node12,node14,node15,node16,node17,node18,node19,node20,node23,node24,node27,node31,node32 inscope
+    class node3,node4,node5,node6,node7,node8,node9,node12,node14,node17,node18,node21,node22,node26,node27 inscope
+    classDef isnew fill:#00706f,color:#fff
+    class node22 isnew
     classDef ismoved fill:#eab308,color:#000
     class node7,node8,node9 ismoved
 ```

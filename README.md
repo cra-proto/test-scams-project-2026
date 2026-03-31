@@ -9,7 +9,7 @@
 This repository was created via the **Design Assistant**.  
 It contains the template files and in-scope pages needed to get started.
 
-GitHub Pages: [https://cra-test-arc.canada.ca/test-scams-project-2026]https://cra-test-arc.canada.ca/test-scams-project-2026)
+GitHub Pages: [https://cra-test-arc.canada.ca/test-scams-project-2026](https://cra-test-arc.canada.ca/test-scams-project-2026)
 
 ---
 ## Update procedures

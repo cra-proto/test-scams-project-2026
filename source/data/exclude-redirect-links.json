@@ -76,16 +76,12 @@
     "destination": "/test-scams-project-2026/en/revenue-agency/services/charities-giving/giving-charity-information-donors/report-suspected-donation-scams-non-compliance.html"
   },
   {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim/lcs-15408.html",
-    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim/lcs-15408.html"
+    "origin": "https://www.canada.ca/en/revenue-agency/news/2025/08/tax-season-may-be-over-but-protecting-your-information-is-a-year-round-priority.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/news/2025/08/tax-season-may-be-over-but-protecting-your-information-is-a-year-round-priority.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gst-hst-credit/how-much/one-time-top-up.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/services/child-family-benefits/gst-hst-credit/how-much/one-time-top-up.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/news/2025/08/tax-season-may-be-over-but-protecting-your-information-is-a-year-round-priority.html",
-    "destination": "/test-scams-project-2026/en/revenue-agency/news/2025/08/tax-season-may-be-over-but-protecting-your-information-is-a-year-round-priority.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/help-cra-sign-in-services/keep-sign-in-services-secure/new-page.html",
@@ -98,6 +94,10 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc213/new-page-englsih.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/services/forms-publications/forms/rc213/new-page-englsih.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim/lcs-15408.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim/lcs-15408.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/campagnes/fraude-arnaques.html",

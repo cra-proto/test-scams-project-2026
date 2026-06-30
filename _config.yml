@@ -25,7 +25,7 @@ creator:
 # Custom settings
 developerOptions: false
 devOptionsLocStore: "gitCRATemplateDevOptions"
-exitByURL: true
+exitByURL: false
 exitPage:
   en: "/test-scams-project-2026/source/exit-intent-e.html"
   fr: "/test-scams-project-2026/source/exit-intent-f.html"

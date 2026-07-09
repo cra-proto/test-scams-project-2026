@@ -52,6 +52,26 @@
     "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/social-insurance-number.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/social-insurance-number.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/determine-province-employment.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/determine-province-employment.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/filing-form-td1.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/filing-form-td1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/after-set-up-employee.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/after-set-up-employee.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/increase-reduce-income-tax-deducted-source.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee/increase-reduce-income-tax-deducted-source.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions.html"
   },

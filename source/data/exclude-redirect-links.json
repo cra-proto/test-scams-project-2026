@@ -1,21 +1,5 @@
 [
   {
-    "origin": "https://www.canada.ca/en.html",
-    "destination": "/test-scams-project-2026/en.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/services/taxes.html",
-    "destination": "/test-scams-project-2026/en/services/taxes.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html",
-    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html",
-    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/determine-need-register.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/determine-need-register.html"
   },
@@ -26,10 +10,6 @@
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/before-you-register.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/before-you-register.html"
-  },
-  {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/what-payroll-account.html",
-    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/what-payroll-account.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/after-you-register.html",
@@ -112,12 +92,108 @@
     "destination": "/test-scams-project-2026/en/services/taxes/excise-taxes-duties-and-levies.html"
   },
   {
-    "origin": "https://www.canada.ca/en/revenue-agency.html",
-    "destination": "/test-scams-project-2026/en/revenue-agency.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/corporate/contact-information.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/determiner-devez-inscrire.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/determiner-devez-inscrire.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/comment-inscrire.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/comment-inscrire.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/avant-vous-inscrire.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/avant-vous-inscrire.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/apres-votre-inscription.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie/apres-votre-inscription.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires/recevoir-correspondance-sur-retenues.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires/recevoir-correspondance-sur-retenues.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/quoi-neuf-retenues-paie.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/quoi-neuf-retenues-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/determiner-relation-employeur-payeur.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/determiner-relation-employeur-payeur.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/numero-assurance-sociale.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/numero-assurance-sociale.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/determiner-province-emploi.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/determiner-province-emploi.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/produire-formulaire-td1.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/produire-formulaire-td1.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/apres-installe-nouvel-employe.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/apres-installe-nouvel-employe.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/augmenter-reduire-impot-revenu-retenu-source.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe/augmenter-reduire-impot-revenu-retenu-source.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/calculer-retenues.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/calculer-retenues.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/versement-retenues-a-source.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/versement-retenues-a-source.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/observation-execution-retenue-paie.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/observation-execution-retenue-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/prestations-pour-enfants-et-familles.html",
+    "destination": "/test-scams-project-2026/fr/services/impots/prestations-pour-enfants-et-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/bienfaisance.html",
+    "destination": "/test-scams-project-2026/fr/services/impots/bienfaisance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/inscription-entreprise.html",
+    "destination": "/test-scams-project-2026/fr/services/impots/inscription-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html",
+    "destination": "/test-scams-project-2026/fr/services/impots/regimes-depargne-et-de-pension.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/taxes-daccise-droits-et-prelevements.html",
+    "destination": "/test-scams-project-2026/fr/services/impots/taxes-daccise-droits-et-prelevements.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/organisation/coordonnees.html",
+    "destination": "/test-scams-project-2026/fr/agence-revenu/organisation/coordonnees.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency.html"
   },
   {
     "origin": "https://www.canada.ca/en/revenue-agency/campaigns/fraud-scams.html",
@@ -216,8 +292,24 @@
     "destination": "/test-scams-project-2026/en/revenue-agency/services/forms-publications/forms/rc213/new-page-englsih.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/what-payroll-account.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/what-payroll-account.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim/lcs-15408.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/support-the-claim/lcs-15408.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/test-scams-project-2026/en/services/taxes.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/campagnes/fraude-arnaques.html",

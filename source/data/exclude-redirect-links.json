@@ -1,5 +1,105 @@
 [
   {
+    "origin": "https://www.canada.ca/en.html",
+    "destination": "/test-scams-project-2026/en.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/test-scams-project-2026/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/determine-need-register.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/determine-need-register.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/how-register.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/how-register.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/before-you-register.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/before-you-register.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/what-payroll-account.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/what-payroll-account.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/after-you-register.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account/after-you-register.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries/receiving-payroll.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries/receiving-payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/whats-new-payroll.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/whats-new-payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/determine-relationship-employer-payer.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/determine-relationship-employer-payer.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/remitting-source-deductions.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/remitting-source-deductions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-compliance-enforcement.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-compliance-enforcement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/child-and-family-benefits.html",
+    "destination": "/test-scams-project-2026/en/services/taxes/child-and-family-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/charities.html",
+    "destination": "/test-scams-project-2026/en/services/taxes/charities.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/business-registration.html",
+    "destination": "/test-scams-project-2026/en/services/taxes/business-registration.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/savings-and-pension-plans.html",
+    "destination": "/test-scams-project-2026/en/services/taxes/savings-and-pension-plans.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies.html",
+    "destination": "/test-scams-project-2026/en/services/taxes/excise-taxes-duties-and-levies.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/corporate/contact-information.html",
+    "destination": "/test-scams-project-2026/en/revenue-agency/corporate/contact-information.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/campaigns/fraud-scams.html",
     "destination": "/test-scams-project-2026/en/revenue-agency/campaigns/fraud-scams.html"
   },
